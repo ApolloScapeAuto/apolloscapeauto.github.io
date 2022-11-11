@@ -1,0 +1,11 @@
+# model-nom
+
+ADEb: 3.5342
+ADEp: 1.0138
+ADEv: 4.0228
+FDEb: 6.8866
+FDEp: 1.9996
+FDEv: 7.5043
+Rank: 1592
+WSADE: 2.1701
+WSFDE: 4.1757

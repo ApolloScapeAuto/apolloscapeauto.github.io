@@ -1,0 +1,11 @@
+# xriver007_my50_6all_load
+
+ADEb: 1.8552
+ADEp: 0.75
+ADEv: 2.3366
+FDEb: 3.4889
+FDEp: 1.4392
+FDEv: 4.2356
+Rank: 941
+WSADE: 1.3105
+WSFDE: 2.4494

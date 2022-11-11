@@ -1,0 +1,11 @@
+# st-lstm
+
+ADEb: 2.4525
+ADEp: 0.9426
+ADEv: 2.1957
+FDEb: 4.0914
+FDEp: 1.6382
+FDEv: 3.9807
+Rank: 1356
+WSADE: 1.5254
+WSFDE: 2.6464

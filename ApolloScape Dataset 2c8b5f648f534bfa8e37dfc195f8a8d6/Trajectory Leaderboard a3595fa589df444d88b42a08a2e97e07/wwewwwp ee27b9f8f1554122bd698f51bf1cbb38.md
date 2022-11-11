@@ -1,0 +1,11 @@
+# wwewwwp
+
+ADEb: 1.8894
+ADEp: 4.0597
+ADEv: 2.2533
+FDEb: 3.4708
+FDEp: 4.4971
+FDEv: 4.0017
+Rank: 1626
+WSADE: 3.221
+WSFDE: 4.1722

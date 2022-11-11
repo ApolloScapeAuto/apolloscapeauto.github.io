@@ -1,0 +1,11 @@
+# gripgatxing-one9noD-e79
+
+ADEb: 1.8081
+ADEp: 0.7789
+ADEv: 2.2505
+FDEb: 3.3546
+FDEp: 1.477
+FDEv: 4.0805
+Rank: 838
+WSADE: 1.2996
+WSFDE: 2.4108

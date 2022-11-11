@@ -1,0 +1,11 @@
+# TP_single
+
+ADEb: 1.8774
+ADEp: 0.7753
+ADEv: 2.3131
+FDEb: 3.442
+FDEp: 1.4874
+FDEv: 4.15
+Rank: 1017
+WSADE: 1.3253
+WSFDE: 2.4499

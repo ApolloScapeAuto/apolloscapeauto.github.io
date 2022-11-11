@@ -1,0 +1,11 @@
+# lstm-baseline
+
+ADEb: 1.8147
+ADEp: 0.7447
+ADEv: 2.1548
+FDEb: 3.3914
+FDEp: 1.4392
+FDEv: 3.8561
+Rank: 340
+WSADE: 1.2621
+WSFDE: 2.3521

@@ -1,0 +1,11 @@
+# gripgatxing-onehot+6-e32
+
+ADEb: 1.8374
+ADEp: 0.7587
+ADEv: 2.2594
+FDEb: 3.4062
+FDEp: 1.4459
+FDEv: 4.0734
+Rank: 800
+WSADE: 1.2962
+WSFDE: 2.4027

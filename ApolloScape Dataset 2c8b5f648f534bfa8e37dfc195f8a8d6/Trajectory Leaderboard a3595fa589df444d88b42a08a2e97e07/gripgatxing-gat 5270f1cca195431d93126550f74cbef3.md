@@ -1,0 +1,11 @@
+# gripgatxing-gat
+
+ADEb: 1.8752
+ADEp: 0.761
+ADEv: 2.3457
+FDEb: 3.5247
+FDEp: 1.4529
+FDEv: 4.2306
+Rank: 1011
+WSADE: 1.3231
+WSFDE: 2.4642

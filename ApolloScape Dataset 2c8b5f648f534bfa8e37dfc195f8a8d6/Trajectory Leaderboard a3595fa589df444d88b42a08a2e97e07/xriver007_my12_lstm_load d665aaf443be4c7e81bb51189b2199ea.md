@@ -1,0 +1,11 @@
+# xriver007_my12_lstm_load
+
+ADEb: 2.1106
+ADEp: 1.1113
+ADEv: 2.6787
+FDEb: 4.1156
+FDEp: 2.4324
+FDEv: 5.0339
+Rank: 1458
+WSADE: 1.6446
+WSFDE: 3.323

@@ -1,0 +1,11 @@
+# rabbit
+
+ADEb: 1.9451
+ADEp: 0.7968
+ADEv: 2.2396
+FDEb: 3.6617
+FDEp: 1.5359
+FDEv: 4.1042
+Rank: 1063
+WSADE: 1.338
+WSFDE: 2.5172

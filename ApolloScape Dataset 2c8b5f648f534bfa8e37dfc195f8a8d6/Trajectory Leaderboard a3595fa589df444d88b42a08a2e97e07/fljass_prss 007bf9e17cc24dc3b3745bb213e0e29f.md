@@ -1,0 +1,11 @@
+# fljass_prss
+
+ADEb: 1.932
+ADEp: 0.9883
+ADEv: 2.2851
+FDEb: 3.5466
+FDEp: 1.9062
+FDEv: 4.0019
+Rank: 1293
+WSADE: 1.4553
+WSFDE: 2.6862

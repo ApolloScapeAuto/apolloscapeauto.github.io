@@ -1,0 +1,11 @@
+# gripgatxing-1head-e62
+
+ADEb: 1.8908
+ADEp: 0.7395
+ADEv: 2.3295
+FDEb: 3.583
+FDEp: 1.4137
+FDEv: 4.1789
+Rank: 947
+WSADE: 1.3108
+WSFDE: 2.444

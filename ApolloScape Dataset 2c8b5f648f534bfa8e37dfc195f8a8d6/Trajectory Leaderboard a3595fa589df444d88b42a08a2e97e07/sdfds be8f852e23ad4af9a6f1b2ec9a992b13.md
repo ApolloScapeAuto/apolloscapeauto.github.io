@@ -1,0 +1,11 @@
+# sdfds
+
+ADEb: 1.6883
+ADEp: 0.7276
+ADEv: 2.1407
+FDEb: 3.1422
+FDEp: 1.4018
+FDEv: 3.9076
+Rank: 71
+WSADE: 1.2216
+WSFDE: 2.2858

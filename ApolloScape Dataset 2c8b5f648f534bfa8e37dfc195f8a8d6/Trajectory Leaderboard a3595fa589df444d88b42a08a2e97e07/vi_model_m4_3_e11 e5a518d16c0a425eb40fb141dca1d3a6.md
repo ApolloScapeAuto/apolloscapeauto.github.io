@@ -1,0 +1,11 @@
+# vi_model_m4_3_e11
+
+ADEb: 1.935
+ADEp: 0.7762
+ADEv: 2.2848
+FDEb: 3.5903
+FDEp: 1.5038
+FDEv: 4.0811
+Rank: 1046
+WSADE: 1.3329
+WSFDE: 2.4783

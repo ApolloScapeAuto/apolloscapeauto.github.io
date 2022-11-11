@@ -1,0 +1,11 @@
+# TestVersion
+
+ADEb: 1.8652
+ADEp: 0.7464
+ADEv: 2.2591
+FDEb: 3.5359
+FDEp: 1.414
+FDEv: 4.0728
+Rank: 782
+WSADE: 1.2951
+WSFDE: 2.4126

@@ -1,0 +1,11 @@
+# base_feature_50_epoch
+
+ADEb: 1.7949
+ADEp: 0.708
+ADEv: 2.1014
+FDEb: 3.4399
+FDEp: 1.3585
+FDEv: 3.8544
+Rank: 86
+WSADE: 1.2258
+WSFDE: 2.3156

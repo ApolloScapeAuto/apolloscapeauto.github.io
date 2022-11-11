@@ -1,0 +1,11 @@
+# base_fix_ph_enc
+
+ADEb: 2.2154
+ADEp: 0.9565
+ADEv: 2.9168
+FDEb: 4.1152
+FDEp: 1.7544
+FDEv: 5.2434
+Rank: 1429
+WSADE: 1.6255
+WSFDE: 2.9716

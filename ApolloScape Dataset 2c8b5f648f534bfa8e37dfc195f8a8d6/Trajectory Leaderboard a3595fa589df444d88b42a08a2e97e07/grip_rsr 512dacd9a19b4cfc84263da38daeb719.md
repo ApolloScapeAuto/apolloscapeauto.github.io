@@ -1,0 +1,11 @@
+# grip_rsr
+
+ADEb: 2.0607
+ADEp: 0.8752
+ADEv: 2.4552
+FDEb: 3.9202
+FDEp: 1.6972
+FDEv: 4.4802
+Rank: 1287
+WSADE: 1.452
+WSFDE: 2.7429

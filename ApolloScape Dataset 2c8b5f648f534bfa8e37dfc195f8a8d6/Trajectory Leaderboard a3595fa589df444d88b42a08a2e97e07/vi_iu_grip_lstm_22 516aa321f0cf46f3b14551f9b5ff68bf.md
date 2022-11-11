@@ -1,0 +1,11 @@
+# vi_iu_grip_lstm_22
+
+ADEb: 1.8279
+ADEp: 0.763
+ADEv: 2.1825
+FDEb: 3.4477
+FDEp: 1.4629
+FDEv: 3.8901
+Rank: 562
+WSADE: 1.2812
+WSFDE: 2.385

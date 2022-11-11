@@ -1,0 +1,11 @@
+# dyint_noheading_20
+
+ADEb: 2.1122
+ADEp: 1.0062
+ADEv: 2.7791
+FDEb: 3.9969
+FDEp: 1.895
+FDEv: 5.155
+Rank: 1419
+WSADE: 1.6041
+WSFDE: 3.0094

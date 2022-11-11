@@ -1,0 +1,11 @@
+# vvvcxz
+
+ADEb: 1.9437
+ADEp: 0.8983
+ADEv: 2.2002
+FDEb: 3.5072
+FDEp: 1.653
+FDEv: 3.8473
+Rank: 1184
+WSADE: 1.3887
+WSFDE: 2.4998

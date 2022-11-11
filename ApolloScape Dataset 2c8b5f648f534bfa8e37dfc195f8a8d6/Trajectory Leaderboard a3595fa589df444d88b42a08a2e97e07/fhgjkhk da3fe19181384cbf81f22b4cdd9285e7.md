@@ -1,0 +1,11 @@
+# fhgjkhk
+
+ADEb: 1.7676
+ADEp: 0.7618
+ADEv: 2.126
+FDEb: 3.282
+FDEp: 1.469
+FDEv: 3.8824
+Rank: 273
+WSADE: 1.2559
+WSFDE: 2.3505

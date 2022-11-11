@@ -1,0 +1,11 @@
+# const_velocity
+
+ADEb: 2.1793
+ADEp: 0.8154
+ADEv: 2.5996
+FDEb: 4.0237
+FDEp: 1.5828
+FDEv: 4.6443
+Rank: 1316
+WSADE: 1.4723
+WSFDE: 2.7321

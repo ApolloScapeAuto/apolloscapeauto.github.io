@@ -1,0 +1,11 @@
+# notrans-nom
+
+ADEb: 2.39
+ADEp: 0.9752
+ADEv: 2.7466
+FDEb: 4.5629
+FDEp: 1.9827
+FDEv: 5.0196
+Rank: 1451
+WSADE: 1.6407
+WSFDE: 3.1577

@@ -1,0 +1,11 @@
+# own_model(1)_050
+
+ADEb: 1.9377
+ADEp: 0.7534
+ADEv: 2.3644
+FDEb: 3.7065
+FDEp: 1.4388
+FDEv: 4.2769
+Rank: 1053
+WSADE: 1.3361
+WSFDE: 2.5053

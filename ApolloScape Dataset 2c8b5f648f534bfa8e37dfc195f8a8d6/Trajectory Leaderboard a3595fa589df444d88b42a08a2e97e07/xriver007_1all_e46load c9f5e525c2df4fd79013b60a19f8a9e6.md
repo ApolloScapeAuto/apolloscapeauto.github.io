@@ -1,0 +1,11 @@
+# xriver007_1all_e46load
+
+ADEb: 1.7844
+ADEp: 0.7162
+ADEv: 2.2454
+FDEb: 3.3398
+FDEp: 1.367
+FDEv: 4.091
+Rank: 285
+WSADE: 1.257
+WSFDE: 2.3458

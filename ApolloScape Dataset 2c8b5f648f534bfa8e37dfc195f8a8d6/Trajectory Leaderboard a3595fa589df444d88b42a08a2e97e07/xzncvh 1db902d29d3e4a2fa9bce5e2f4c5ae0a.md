@@ -1,0 +1,11 @@
+# xzncvh
+
+ADEb: 2.4153
+ADEp: 0.8124
+ADEv: 3.7542
+FDEb: 4.4859
+FDEp: 1.57
+FDEv: 7.4542
+Rank: 1539
+WSADE: 1.7534
+WSFDE: 3.3883

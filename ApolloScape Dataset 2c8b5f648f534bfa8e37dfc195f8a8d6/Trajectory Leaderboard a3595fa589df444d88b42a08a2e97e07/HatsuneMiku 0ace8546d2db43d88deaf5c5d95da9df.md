@@ -1,0 +1,11 @@
+# HatsuneMiku
+
+ADEb: 1.8529
+ADEp: 0.7919
+ADEv: 2.1967
+FDEb: 3.5144
+FDEp: 1.5285
+FDEv: 3.9538
+Rank: 909
+WSADE: 1.3063
+WSFDE: 2.4505

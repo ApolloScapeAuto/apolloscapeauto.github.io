@@ -1,0 +1,11 @@
+# msformer_frame
+
+ADEb: 1.9805
+ADEp: 0.7989
+ADEv: 2.4912
+FDEb: 3.7349
+FDEp: 1.5463
+FDEv: 4.5547
+Rank: 1201
+WSADE: 1.3973
+WSFDE: 2.6295

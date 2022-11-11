@@ -1,0 +1,11 @@
+# yuanban
+
+ADEb: 1.8688
+ADEp: 0.75
+ADEv: 2.2617
+FDEb: 3.537
+FDEp: 1.4313
+FDEv: 4.0582
+Rank: 824
+WSADE: 1.2985
+WSFDE: 2.4199

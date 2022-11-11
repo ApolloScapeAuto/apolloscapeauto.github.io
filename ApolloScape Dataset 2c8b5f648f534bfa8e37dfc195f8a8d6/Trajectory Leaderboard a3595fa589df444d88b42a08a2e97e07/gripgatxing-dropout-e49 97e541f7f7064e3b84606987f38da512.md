@@ -1,0 +1,11 @@
+# gripgatxing-dropout-e49
+
+ADEb: 1.8546
+ADEp: 0.7384
+ADEv: 2.3032
+FDEb: 3.4781
+FDEp: 1.4054
+FDEv: 4.1377
+Rank: 807
+WSADE: 1.2969
+WSFDE: 2.4079

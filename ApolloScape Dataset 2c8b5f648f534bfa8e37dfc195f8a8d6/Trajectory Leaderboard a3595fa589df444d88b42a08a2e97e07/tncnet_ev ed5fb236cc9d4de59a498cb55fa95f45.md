@@ -1,0 +1,11 @@
+# tncnet_ev
+
+ADEb: 1.8456
+ADEp: 0.9883
+ADEv: 2.2696
+FDEb: 3.411
+FDEp: 1.9062
+FDEv: 4.0686
+Rank: 1256
+WSADE: 1.4332
+WSFDE: 2.6697

@@ -1,0 +1,11 @@
+# base_nodefre
+
+ADEb: 1.8288
+ADEp: 0.724
+ADEv: 2.0643
+FDEb: 3.4362
+FDEp: 1.3728
+FDEv: 3.6934
+Rank: 120
+WSADE: 1.2351
+WSFDE: 2.2909

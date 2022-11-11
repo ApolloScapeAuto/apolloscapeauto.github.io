@@ -1,0 +1,11 @@
+# dyint_fix_ph_enc
+
+ADEb: 2.0783
+ADEp: 1.0138
+ADEv: 2.859
+FDEb: 3.9384
+FDEp: 1.9224
+FDEv: 5.4342
+Rank: 1425
+WSADE: 1.617
+WSFDE: 3.0683

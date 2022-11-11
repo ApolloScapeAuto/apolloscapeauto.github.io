@@ -1,0 +1,11 @@
+# Separate Solo-Models
+
+ADEb: 2.0587
+ADEp: 0.8033
+ADEv: 2.3968
+FDEb: 3.9454
+FDEp: 1.5535
+FDEv: 4.359
+Rank: 1208
+WSADE: 1.3982
+WSFDE: 2.6408

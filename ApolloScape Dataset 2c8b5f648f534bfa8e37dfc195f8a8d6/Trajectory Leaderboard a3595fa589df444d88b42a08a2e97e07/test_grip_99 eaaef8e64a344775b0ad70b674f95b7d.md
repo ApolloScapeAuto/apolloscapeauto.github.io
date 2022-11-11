@@ -1,0 +1,11 @@
+# test_grip_99
+
+ADEb: 1.9204
+ADEp: 0.8237
+ADEv: 2.2118
+FDEb: 3.6384
+FDEp: 1.5908
+FDEv: 4.0418
+Rank: 1080
+WSADE: 1.3426
+WSFDE: 2.5315

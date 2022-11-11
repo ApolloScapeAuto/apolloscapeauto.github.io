@@ -1,0 +1,11 @@
+# gripgatxing-xy6-e16
+
+ADEb: 1.8266
+ADEp: 0.779
+ADEv: 2.3257
+FDEb: 3.4187
+FDEp: 1.48
+FDEv: 4.2073
+Rank: 994
+WSADE: 1.3188
+WSFDE: 2.452

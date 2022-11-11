@@ -1,0 +1,11 @@
+# test_conv
+
+ADEb: 1.7944
+ADEp: 0.7055
+ADEv: 2.0824
+FDEb: 3.4495
+FDEp: 1.3434
+FDEv: 3.802
+Rank: 66
+WSADE: 1.2204
+WSFDE: 2.2985

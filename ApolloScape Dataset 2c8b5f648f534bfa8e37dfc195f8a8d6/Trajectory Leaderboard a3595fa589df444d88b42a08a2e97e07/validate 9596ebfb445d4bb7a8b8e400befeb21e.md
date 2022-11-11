@@ -1,0 +1,11 @@
+# validate
+
+ADEb: 1.8028
+ADEp: 0.7857
+ADEv: 2.3975
+FDEb: 3.2205
+FDEp: 1.4778
+FDEv: 4.2616
+Rank: 1044
+WSADE: 1.3318
+WSFDE: 2.418

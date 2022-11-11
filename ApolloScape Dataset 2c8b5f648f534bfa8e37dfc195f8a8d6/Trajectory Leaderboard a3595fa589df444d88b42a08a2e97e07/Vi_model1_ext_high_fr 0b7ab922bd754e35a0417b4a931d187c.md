@@ -1,0 +1,11 @@
+# Vi_model1_ext_high_fr
+
+ADEb: 2.0385
+ADEp: 0.7932
+ADEv: 2.4617
+FDEb: 3.8859
+FDEp: 1.5379
+FDEv: 4.4916
+Rank: 1211
+WSADE: 1.4009
+WSFDE: 2.6452

@@ -1,0 +1,11 @@
+# revision1_1s
+
+ADEb: 99.736
+ADEp: 99.9087
+ADEv: 99.8317
+FDEb: 100
+FDEp: 100
+FDEv: 100
+Rank: 1737
+WSADE: 99.8553
+WSFDE: 100

@@ -1,0 +1,11 @@
+# xzcstar
+
+ADEb: 1.989
+ADEp: 0.8861
+ADEv: 2.3192
+FDEb: 3.5887
+FDEp: 1.6669
+FDEv: 4.0606
+Rank: 1239
+WSADE: 1.4154
+WSFDE: 2.5684

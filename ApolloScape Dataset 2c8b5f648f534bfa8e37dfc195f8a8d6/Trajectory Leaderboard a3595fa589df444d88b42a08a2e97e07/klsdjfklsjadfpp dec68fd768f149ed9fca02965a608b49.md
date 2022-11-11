@@ -1,0 +1,11 @@
+# klsdjfklsjadfpp
+
+ADEb: 1.8848
+ADEp: 0.9883
+ADEv: 2.2699
+FDEb: 3.4441
+FDEp: 1.9062
+FDEv: 3.9932
+Rank: 1276
+WSADE: 1.4418
+WSFDE: 2.6619

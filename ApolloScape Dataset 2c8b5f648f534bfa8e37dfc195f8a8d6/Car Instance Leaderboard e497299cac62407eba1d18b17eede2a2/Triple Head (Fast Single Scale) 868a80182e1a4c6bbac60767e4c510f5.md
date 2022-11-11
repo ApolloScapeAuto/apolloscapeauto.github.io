@@ -1,0 +1,15 @@
+# Triple Head (Fast Single Scale)
+
+AP: 0.1049
+AP50: 0.2957
+AP75: 0.1399
+APL: 0.2569
+APM: 0.1057
+APS: 0.0955
+AR1: 0.0321
+AR10: 0.1556
+AR100: 0.199
+ARL: 0.399
+ARM: 0.212
+ARS: 0.0955
+Rank: 34

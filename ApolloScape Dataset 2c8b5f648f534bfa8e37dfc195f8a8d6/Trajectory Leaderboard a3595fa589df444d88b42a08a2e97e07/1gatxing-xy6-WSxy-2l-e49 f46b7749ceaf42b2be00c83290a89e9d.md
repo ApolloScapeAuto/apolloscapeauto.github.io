@@ -1,0 +1,11 @@
+# 1gatxing-xy6-WSxy-2l-e49
+
+ADEb: 1.8291
+ADEp: 0.7913
+ADEv: 2.2754
+FDEb: 3.3993
+FDEp: 1.5242
+FDEv: 4.1148
+Rank: 986
+WSADE: 1.3164
+WSFDE: 2.4548

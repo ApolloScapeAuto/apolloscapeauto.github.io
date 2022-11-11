@@ -1,0 +1,11 @@
+# mid12
+
+ADEb: 1.9
+ADEp: 0.746
+ADEv: 2.3415
+FDEb: 3.5881
+FDEp: 1.4421
+FDEv: 4.2231
+Rank: 995
+WSADE: 1.319
+WSFDE: 2.4704

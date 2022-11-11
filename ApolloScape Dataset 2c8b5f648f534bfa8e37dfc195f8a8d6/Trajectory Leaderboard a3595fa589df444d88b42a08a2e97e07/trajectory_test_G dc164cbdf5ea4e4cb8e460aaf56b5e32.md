@@ -1,0 +1,11 @@
+# trajectory_test_G
+
+ADEb: 25.6445
+ADEp: 24.3423
+ADEv: 25.3984
+FDEb: 27.3234
+FDEp: 25.7112
+FDEv: 27.0485
+Rank: 1691
+WSADE: 24.84
+WSFDE: 26.3333

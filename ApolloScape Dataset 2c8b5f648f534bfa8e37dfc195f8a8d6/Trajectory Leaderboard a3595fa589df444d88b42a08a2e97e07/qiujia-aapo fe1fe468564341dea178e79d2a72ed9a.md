@@ -1,0 +1,11 @@
+# qiujia-aapo
+
+ADEb: 2.1666
+ADEp: 0.8734
+ADEv: 2.786
+FDEb: 4.0739
+FDEp: 1.6682
+FDEv: 5.0401
+Rank: 1362
+WSADE: 1.5404
+WSFDE: 2.8718

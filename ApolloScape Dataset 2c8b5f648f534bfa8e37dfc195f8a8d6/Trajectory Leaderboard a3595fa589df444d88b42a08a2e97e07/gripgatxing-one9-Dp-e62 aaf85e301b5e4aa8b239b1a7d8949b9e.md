@@ -1,0 +1,11 @@
+# gripgatxing-one9-Dp-e62
+
+ADEb: 1.8363
+ADEp: 0.7736
+ADEv: 2.2396
+FDEb: 3.4105
+FDEp: 1.4734
+FDEv: 4.0391
+Rank: 852
+WSADE: 1.3006
+WSFDE: 2.4127

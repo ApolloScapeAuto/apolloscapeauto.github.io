@@ -1,0 +1,11 @@
+# asdasd
+
+ADEb: 1.723
+ADEp: 0.7474
+ADEv: 2.1352
+FDEb: 3.2273
+FDEp: 1.444
+FDEv: 3.8788
+Rank: 144
+WSADE: 1.2396
+WSFDE: 2.3233

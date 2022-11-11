@@ -1,0 +1,11 @@
+# cripmmm+
+
+ADEb: 2.2117
+ADEp: 0.962
+ADEv: 2.5127
+FDEb: 4.1618
+FDEp: 1.8879
+FDEv: 4.5943
+Rank: 1366
+WSADE: 1.5471
+WSFDE: 2.9294

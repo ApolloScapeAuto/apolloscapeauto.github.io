@@ -1,0 +1,11 @@
+# revision1_0m
+
+ADEb: 1.8584
+ADEp: 0.7475
+ADEv: 2.2529
+FDEb: 3.5064
+FDEp: 1.4311
+FDEv: 4.0534
+Rank: 751
+WSADE: 1.293
+WSFDE: 2.4121

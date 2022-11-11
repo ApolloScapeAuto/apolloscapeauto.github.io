@@ -1,0 +1,11 @@
+# staticpnet1
+
+ADEb: 1.8593
+ADEp: 0.7618
+ADEv: 3.0917
+FDEb: 3.4014
+FDEp: 1.4562
+FDEv: 5.5514
+Rank: 1310
+WSADE: 1.4692
+WSFDE: 2.7032

@@ -1,0 +1,11 @@
+# Scene_fusion
+
+ADEb: 1.8648
+ADEp: 0.7617
+ADEv: 2.234
+FDEb: 3.4125
+FDEp: 1.4527
+FDEv: 3.9683
+Rank: 828
+WSADE: 1.2988
+WSFDE: 2.387

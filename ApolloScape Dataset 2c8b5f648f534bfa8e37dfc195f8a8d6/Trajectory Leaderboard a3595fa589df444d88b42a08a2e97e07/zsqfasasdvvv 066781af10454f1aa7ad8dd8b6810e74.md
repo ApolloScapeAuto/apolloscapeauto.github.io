@@ -1,0 +1,11 @@
+# zsqfasasdvvv
+
+ADEb: 1.823
+ADEp: 0.7321
+ADEv: 3.0917
+FDEb: 3.346
+FDEp: 1.4097
+FDEv: 5.5514
+Rank: 1280
+WSADE: 1.444
+WSFDE: 2.664

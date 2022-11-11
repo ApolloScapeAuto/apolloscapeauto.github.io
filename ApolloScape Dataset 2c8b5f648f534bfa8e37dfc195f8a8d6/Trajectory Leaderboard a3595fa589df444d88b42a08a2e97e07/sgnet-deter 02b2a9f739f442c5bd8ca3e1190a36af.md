@@ -1,0 +1,11 @@
+# sgnet-deter
+
+ADEb: 2.5541
+ADEp: 1.3293
+ADEv: 3.0059
+FDEb: 4.6373
+FDEp: 2.515
+FDEv: 5.4091
+Rank: 1575
+WSADE: 1.9341
+WSFDE: 3.5607

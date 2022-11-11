@@ -1,0 +1,11 @@
+# my_mc_net_test(G)
+
+ADEb: 1.874
+ADEp: 0.75
+ADEv: 2.2621
+FDEb: 3.5597
+FDEp: 1.4244
+FDEv: 4.0718
+Rank: 841
+WSADE: 1.2997
+WSFDE: 2.4236

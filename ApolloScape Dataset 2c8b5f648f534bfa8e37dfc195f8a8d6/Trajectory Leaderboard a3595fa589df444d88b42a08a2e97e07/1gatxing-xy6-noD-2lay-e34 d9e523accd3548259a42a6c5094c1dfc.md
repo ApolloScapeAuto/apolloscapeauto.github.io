@@ -1,0 +1,11 @@
+# 1gatxing-xy6-noD-2lay-e34
+
+ADEb: 1.8193
+ADEp: 0.7344
+ADEv: 2.2257
+FDEb: 3.3246
+FDEp: 1.3921
+FDEv: 4.0305
+Rank: 434
+WSADE: 1.2713
+WSFDE: 2.3449

@@ -1,0 +1,11 @@
+# tncnet_cas_ep
+
+ADEb: 1.8933
+ADEp: 0.7538
+ADEv: 3.0917
+FDEb: 3.481
+FDEp: 1.4561
+FDEv: 5.5514
+Rank: 1314
+WSADE: 1.4721
+WSFDE: 2.7206

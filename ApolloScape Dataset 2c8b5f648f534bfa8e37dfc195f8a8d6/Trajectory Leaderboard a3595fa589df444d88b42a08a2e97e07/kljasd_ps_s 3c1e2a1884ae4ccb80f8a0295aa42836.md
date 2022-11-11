@@ -1,0 +1,11 @@
+# kljasd_ps_s
+
+ADEb: 1.8881
+ADEp: 0.9883
+ADEv: 2.2315
+FDEb: 3.4732
+FDEp: 1.9062
+FDEv: 4.0115
+Rank: 1264
+WSADE: 1.4349
+WSFDE: 2.672

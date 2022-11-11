@@ -1,0 +1,11 @@
+# ssddqre0109
+
+ADEb: 1.8721
+ADEp: 0.752
+ADEv: 2.2768
+FDEb: 3.5373
+FDEp: 1.442
+FDEv: 4.1174
+Rank: 887
+WSADE: 1.3034
+WSFDE: 2.438

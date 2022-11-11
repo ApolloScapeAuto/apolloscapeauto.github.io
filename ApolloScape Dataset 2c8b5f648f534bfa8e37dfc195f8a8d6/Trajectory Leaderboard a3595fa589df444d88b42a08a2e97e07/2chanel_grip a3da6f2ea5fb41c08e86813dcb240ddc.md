@@ -1,0 +1,11 @@
+# 2chanel_grip
+
+ADEb: 1.826
+ADEp: 0.7698
+ADEv: 2.1919
+FDEb: 3.4394
+FDEp: 1.4922
+FDEv: 3.9372
+Rank: 654
+WSADE: 1.2866
+WSFDE: 2.4096

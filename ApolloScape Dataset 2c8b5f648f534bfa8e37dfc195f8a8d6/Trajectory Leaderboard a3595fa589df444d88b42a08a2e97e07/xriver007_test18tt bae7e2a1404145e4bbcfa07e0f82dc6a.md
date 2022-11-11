@@ -1,0 +1,11 @@
+# xriver007_test18tt
+
+ADEb: 1.8815
+ADEp: 0.768
+ADEv: 2.2824
+FDEb: 3.5421
+FDEp: 1.469
+FDEv: 4.1038
+Rank: 983
+WSADE: 1.3158
+WSFDE: 2.452

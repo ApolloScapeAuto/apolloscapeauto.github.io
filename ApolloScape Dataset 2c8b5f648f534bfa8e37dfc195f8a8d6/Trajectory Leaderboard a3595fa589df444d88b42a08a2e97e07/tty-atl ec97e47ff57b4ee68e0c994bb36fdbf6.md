@@ -1,0 +1,11 @@
+# tty-atl
+
+ADEb: 1.9797
+ADEp: 0.7657
+ADEv: 2.6193
+FDEb: 3.6958
+FDEp: 1.483
+FDEv: 4.749
+Rank: 1215
+WSADE: 1.4035
+WSFDE: 2.623

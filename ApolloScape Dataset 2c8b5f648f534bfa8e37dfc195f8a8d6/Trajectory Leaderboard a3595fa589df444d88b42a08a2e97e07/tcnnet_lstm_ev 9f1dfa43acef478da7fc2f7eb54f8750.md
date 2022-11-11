@@ -1,0 +1,11 @@
+# tcnnet_lstm_ev
+
+ADEb: 1.8456
+ADEp: 0.7482
+ADEv: 3.0917
+FDEb: 3.411
+FDEp: 1.4454
+FDEv: 5.5514
+Rank: 1298
+WSADE: 1.4583
+WSFDE: 2.699

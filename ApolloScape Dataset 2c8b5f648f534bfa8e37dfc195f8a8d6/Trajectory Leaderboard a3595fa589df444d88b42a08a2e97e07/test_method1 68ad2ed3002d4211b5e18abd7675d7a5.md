@@ -1,0 +1,11 @@
+# test_method1
+
+ADEb: 1.8431
+ADEp: 0.7549
+ADEv: 2.2371
+FDEb: 3.4833
+FDEp: 1.4376
+FDEv: 4.0353
+Rank: 721
+WSADE: 1.2907
+WSFDE: 2.4072

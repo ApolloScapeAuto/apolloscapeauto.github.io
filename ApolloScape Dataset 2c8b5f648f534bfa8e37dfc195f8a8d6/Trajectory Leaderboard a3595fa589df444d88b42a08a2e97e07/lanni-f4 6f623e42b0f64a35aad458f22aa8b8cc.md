@@ -1,0 +1,11 @@
+# lanni-f4
+
+ADEb: 1.8316
+ADEp: 0.736
+ADEv: 2.1994
+FDEb: 3.4185
+FDEp: 1.4019
+FDEv: 3.9636
+Rank: 413
+WSADE: 1.2697
+WSFDE: 2.3579

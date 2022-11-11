@@ -1,0 +1,11 @@
+# gripgatxing-seq1
+
+ADEb: 1.8316
+ADEp: 0.7591
+ADEv: 2.2198
+FDEb: 3.4622
+FDEp: 1.4811
+FDEv: 4.0069
+Rank: 667
+WSADE: 1.2872
+WSFDE: 2.4221

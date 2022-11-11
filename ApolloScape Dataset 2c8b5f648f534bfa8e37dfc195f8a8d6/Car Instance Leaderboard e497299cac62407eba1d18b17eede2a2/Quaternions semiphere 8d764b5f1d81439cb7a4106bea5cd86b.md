@@ -1,0 +1,15 @@
+# Quaternions semiphere
+
+AP: 0.1483
+AP50: 0.353
+AP75: 0.209
+APL: 0.3714
+APM: 0.1378
+APS: 0.1153
+AR1: 0.0418
+AR10: 0.191
+AR100: 0.2435
+ARL: 0.4904
+ARM: 0.259
+ARS: 0.1153
+Rank: 22

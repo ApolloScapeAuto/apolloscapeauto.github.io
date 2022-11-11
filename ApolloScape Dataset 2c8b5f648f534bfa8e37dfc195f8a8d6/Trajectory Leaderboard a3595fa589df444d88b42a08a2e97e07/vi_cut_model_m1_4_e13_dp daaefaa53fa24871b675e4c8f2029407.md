@@ -1,0 +1,11 @@
+# vi_cut_model_m1_4_e13_dp
+
+ADEb: 2.568
+ADEp: 1.0753
+ADEv: 2.9562
+FDEb: 4.6118
+FDEp: 2.0141
+FDEv: 5.0888
+Rank: 1549
+WSADE: 1.7799
+WSFDE: 3.2005

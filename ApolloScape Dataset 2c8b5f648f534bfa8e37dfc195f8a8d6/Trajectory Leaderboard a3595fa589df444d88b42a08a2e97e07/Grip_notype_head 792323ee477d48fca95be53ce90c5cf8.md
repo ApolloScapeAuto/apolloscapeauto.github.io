@@ -1,0 +1,11 @@
+# Grip_notype_head
+
+ADEb: 1.8395
+ADEp: 0.7863
+ADEv: 2.2876
+FDEb: 3.4583
+FDEp: 1.5351
+FDEv: 4.1263
+Rank: 991
+WSADE: 1.3183
+WSFDE: 2.4764

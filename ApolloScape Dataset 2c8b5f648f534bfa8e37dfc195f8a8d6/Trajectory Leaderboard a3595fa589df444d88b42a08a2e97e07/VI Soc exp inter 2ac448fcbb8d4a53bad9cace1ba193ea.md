@@ -1,0 +1,11 @@
+# VI Soc exp inter
+
+ADEb: 1.8141
+ADEp: 0.7237
+ADEv: 2.1366
+FDEb: 3.3855
+FDEp: 1.3888
+FDEv: 3.8224
+Rank: 188
+WSADE: 1.2462
+WSFDE: 2.3148

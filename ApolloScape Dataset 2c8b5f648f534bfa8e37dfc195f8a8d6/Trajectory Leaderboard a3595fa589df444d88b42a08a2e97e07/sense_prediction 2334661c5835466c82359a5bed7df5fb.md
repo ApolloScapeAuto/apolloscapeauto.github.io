@@ -1,0 +1,11 @@
+# sense_prediction
+
+ADEb: 1.8149
+ADEp: 0.7102
+ADEv: 2.1373
+FDEb: 3.3061
+FDEp: 1.3658
+FDEv: 3.751
+Rank: 134
+WSADE: 1.2387
+WSFDE: 2.2697

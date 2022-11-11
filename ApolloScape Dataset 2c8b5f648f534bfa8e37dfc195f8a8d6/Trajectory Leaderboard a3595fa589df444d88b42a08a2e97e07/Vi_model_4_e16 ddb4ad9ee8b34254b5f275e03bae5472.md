@@ -1,0 +1,11 @@
+# Vi_model_4_e16
+
+ADEb: 1.8343
+ADEp: 0.7486
+ADEv: 2.2532
+FDEb: 3.4573
+FDEp: 1.4363
+FDEv: 4.0366
+Rank: 680
+WSADE: 1.2884
+WSFDE: 2.401

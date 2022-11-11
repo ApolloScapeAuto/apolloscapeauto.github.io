@@ -1,0 +1,11 @@
+# testzxcvc
+
+ADEb: 1.9009
+ADEp: 1.1751
+ADEv: 2.1644
+FDEb: 3.3805
+FDEp: 2.2743
+FDEv: 3.7294
+Rank: 1359
+WSADE: 1.5326
+WSFDE: 2.8087

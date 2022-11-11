@@ -1,0 +1,11 @@
+# msformer_frame_conv_nd23
+
+ADEb: 1.9318
+ADEp: 0.8143
+ADEv: 2.281
+FDEb: 3.6617
+FDEp: 1.6063
+FDEv: 4.1381
+Rank: 1109
+WSADE: 1.3535
+WSFDE: 2.5648

@@ -1,0 +1,11 @@
+# 1gatxing-xy6-WS-2lay-e43
+
+ADEb: 1.8185
+ADEp: 0.7363
+ADEv: 2.256
+FDEb: 3.3629
+FDEp: 1.4003
+FDEv: 4.1048
+Rank: 516
+WSADE: 1.2783
+WSFDE: 2.373

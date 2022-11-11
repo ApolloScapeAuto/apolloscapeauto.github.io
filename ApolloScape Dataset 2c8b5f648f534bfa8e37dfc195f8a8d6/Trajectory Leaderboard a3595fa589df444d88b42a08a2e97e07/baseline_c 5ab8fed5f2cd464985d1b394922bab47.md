@@ -1,0 +1,11 @@
+# baseline_c
+
+ADEb: 1.8575
+ADEp: 0.75
+ADEv: 2.199
+FDEb: 3.5042
+FDEp: 1.4481
+FDEv: 4.003
+Rank: 597
+WSADE: 1.2834
+WSFDE: 2.4114

@@ -1,0 +1,11 @@
+# xriver007_1all_e59load
+
+ADEb: 1.7866
+ADEp: 0.731
+ADEv: 2.2828
+FDEb: 3.3577
+FDEp: 1.4056
+FDEv: 4.1901
+Rank: 461
+WSADE: 1.2736
+WSFDE: 2.392

@@ -1,0 +1,11 @@
+# gatxing-hot+6-5head-e79
+
+ADEb: 1.8023
+ADEp: 0.7531
+ADEv: 2.2648
+FDEb: 3.3116
+FDEp: 1.4386
+FDEv: 4.0763
+Rank: 644
+WSADE: 1.2863
+WSFDE: 2.3782

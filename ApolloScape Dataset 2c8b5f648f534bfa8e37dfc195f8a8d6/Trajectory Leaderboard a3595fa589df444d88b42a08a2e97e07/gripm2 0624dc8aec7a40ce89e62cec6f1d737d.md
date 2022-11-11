@@ -1,0 +1,11 @@
+# gripm2
+
+ADEb: 2.0136
+ADEp: 0.811
+ADEv: 2.4983
+FDEb: 3.8169
+FDEp: 1.543
+FDEv: 4.5386
+Rank: 1236
+WSADE: 1.413
+WSFDE: 2.6424

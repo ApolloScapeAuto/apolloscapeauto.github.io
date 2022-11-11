@@ -1,0 +1,11 @@
+# gripgatxing-onehot9-e49
+
+ADEb: 1.7792
+ADEp: 0.7525
+ADEv: 2.2415
+FDEb: 3.2886
+FDEp: 1.4377
+FDEv: 4.0776
+Rank: 489
+WSADE: 1.2762
+WSFDE: 2.3729

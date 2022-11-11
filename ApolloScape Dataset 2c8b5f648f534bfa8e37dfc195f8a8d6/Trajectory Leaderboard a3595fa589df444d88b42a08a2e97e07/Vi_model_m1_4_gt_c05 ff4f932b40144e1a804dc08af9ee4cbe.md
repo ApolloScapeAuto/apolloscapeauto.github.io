@@ -1,0 +1,11 @@
+# Vi_model_m1_4_gt_c05
+
+ADEb: 7.7514
+ADEp: 7.6551
+ADEv: 7.7671
+FDEb: 8.0617
+FDEp: 7.676
+FDEv: 7.9586
+Rank: 1664
+WSADE: 7.6987
+WSFDE: 7.8174

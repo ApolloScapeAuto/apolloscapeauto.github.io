@@ -1,0 +1,11 @@
+# gatxing-onehot9-2lay-e16
+
+ADEb: 1.8254
+ADEp: 0.7436
+ADEv: 2.3059
+FDEb: 3.3894
+FDEp: 1.4095
+FDEv: 4.1782
+Rank: 764
+WSADE: 1.2941
+WSFDE: 2.3988

@@ -1,0 +1,11 @@
+# modelnotran
+
+ADEb: 2.3325
+ADEp: 1.0914
+ADEv: 3.4105
+FDEb: 4.3425
+FDEp: 2.2195
+FDEv: 6.2243
+Rank: 1561
+WSADE: 1.8283
+WSFDE: 3.4875

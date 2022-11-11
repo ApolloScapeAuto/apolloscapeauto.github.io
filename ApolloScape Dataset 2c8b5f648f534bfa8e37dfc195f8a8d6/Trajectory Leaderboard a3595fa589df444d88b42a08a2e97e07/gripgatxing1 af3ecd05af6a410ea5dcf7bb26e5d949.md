@@ -1,0 +1,11 @@
+# gripgatxing1
+
+ADEb: 1.8915
+ADEp: 0.7335
+ADEv: 2.2812
+FDEb: 3.5718
+FDEp: 1.3986
+FDEv: 4.1131
+Rank: 816
+WSADE: 1.2978
+WSFDE: 2.4196

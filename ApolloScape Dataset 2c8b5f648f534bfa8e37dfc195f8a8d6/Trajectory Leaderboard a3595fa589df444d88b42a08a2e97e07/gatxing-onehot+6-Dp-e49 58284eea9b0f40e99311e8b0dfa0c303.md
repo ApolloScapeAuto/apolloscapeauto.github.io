@@ -1,0 +1,11 @@
+# gatxing-onehot+6-Dp-e49
+
+ADEb: 1.8134
+ADEp: 0.777
+ADEv: 2.2422
+FDEb: 3.3802
+FDEp: 1.48
+FDEv: 4.0487
+Rank: 820
+WSADE: 1.298
+WSFDE: 2.4118

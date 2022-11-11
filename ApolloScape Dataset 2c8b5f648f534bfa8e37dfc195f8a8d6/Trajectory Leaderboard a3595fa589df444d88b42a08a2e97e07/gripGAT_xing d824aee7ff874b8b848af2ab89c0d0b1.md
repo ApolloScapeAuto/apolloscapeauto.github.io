@@ -1,0 +1,11 @@
+# gripGAT_xing
+
+ADEb: 1.8291
+ADEp: 0.7501
+ADEv: 2.2856
+FDEb: 3.47
+FDEp: 1.4295
+FDEv: 4.1185
+Rank: 775
+WSADE: 1.2946
+WSFDE: 2.4162

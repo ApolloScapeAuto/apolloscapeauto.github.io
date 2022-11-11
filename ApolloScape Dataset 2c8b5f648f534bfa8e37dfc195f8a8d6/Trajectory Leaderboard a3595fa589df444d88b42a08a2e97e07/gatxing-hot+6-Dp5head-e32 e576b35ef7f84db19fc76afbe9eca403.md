@@ -1,0 +1,11 @@
+# gatxing-hot+6-Dp5head-e32
+
+ADEb: 1.8261
+ADEp: 0.7731
+ADEv: 2.2756
+FDEb: 3.3831
+FDEp: 1.464
+FDEv: 4.1082
+Rank: 900
+WSADE: 1.3053
+WSFDE: 2.415

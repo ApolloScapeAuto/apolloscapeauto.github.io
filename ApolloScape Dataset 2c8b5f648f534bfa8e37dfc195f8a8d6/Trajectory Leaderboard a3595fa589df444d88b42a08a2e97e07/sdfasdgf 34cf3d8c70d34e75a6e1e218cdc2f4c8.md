@@ -1,0 +1,11 @@
+# sdfasdgf
+
+ADEb: 2.1149
+ADEp: 1.1191
+ADEv: 2.353
+FDEb: 3.7319
+FDEp: 2.0077
+FDEv: 3.9776
+Rank: 1407
+WSADE: 1.585
+WSFDE: 2.781

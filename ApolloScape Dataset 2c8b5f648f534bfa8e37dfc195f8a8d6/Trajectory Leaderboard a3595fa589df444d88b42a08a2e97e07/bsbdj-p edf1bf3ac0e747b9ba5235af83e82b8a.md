@@ -1,0 +1,11 @@
+# bsbdj-p
+
+ADEb: 2.3059
+ADEp: 0.9971
+ADEv: 2.7203
+FDEb: 3.9861
+FDEp: 1.9084
+FDEv: 4.7892
+Rank: 1435
+WSADE: 1.6297
+WSFDE: 2.9417

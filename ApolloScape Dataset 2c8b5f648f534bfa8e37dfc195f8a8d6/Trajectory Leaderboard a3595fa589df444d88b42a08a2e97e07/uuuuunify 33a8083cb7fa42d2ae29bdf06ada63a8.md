@@ -1,0 +1,11 @@
+# uuuuunify
+
+ADEb: 1.8672
+ADEp: 0.8374
+ADEv: 2.2213
+FDEb: 3.3337
+FDEp: 1.5689
+FDEv: 3.9066
+Rank: 1069
+WSADE: 1.3407
+WSFDE: 2.4247

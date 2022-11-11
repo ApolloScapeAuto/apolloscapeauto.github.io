@@ -1,0 +1,11 @@
+# gripgatxing-gat80-e32
+
+ADEb: 1.8759
+ADEp: 0.7549
+ADEv: 2.2878
+FDEb: 3.5164
+FDEp: 1.4388
+FDEv: 4.0721
+Rank: 928
+WSADE: 1.3081
+WSFDE: 2.4225

@@ -1,0 +1,11 @@
+# Script check
+
+ADEb: 2.6879
+ADEp: 1.2512
+ADEv: 3.6614
+FDEb: 4.7785
+FDEp: 2.3512
+FDEv: 6.1642
+Rank: 1583
+WSADE: 2.0493
+WSFDE: 3.6478

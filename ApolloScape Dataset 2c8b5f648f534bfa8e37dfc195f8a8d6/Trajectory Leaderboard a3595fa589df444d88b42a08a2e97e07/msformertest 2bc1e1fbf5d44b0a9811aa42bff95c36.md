@@ -1,0 +1,11 @@
+# msformertest
+
+ADEb: 2.0857
+ADEp: 0.8619
+ADEv: 2.6225
+FDEb: 4.0083
+FDEp: 1.7095
+FDEv: 4.8374
+Rank: 1334
+WSADE: 1.4833
+WSFDE: 2.8408

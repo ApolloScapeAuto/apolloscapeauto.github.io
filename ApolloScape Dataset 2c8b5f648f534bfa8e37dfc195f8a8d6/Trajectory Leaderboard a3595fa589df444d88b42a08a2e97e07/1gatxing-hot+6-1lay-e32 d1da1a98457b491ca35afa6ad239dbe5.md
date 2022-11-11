@@ -1,0 +1,11 @@
+# 1gatxing-hot+6-1lay-e32
+
+ADEb: 1.8152
+ADEp: 0.7521
+ADEv: 2.2401
+FDEb: 3.3589
+FDEp: 1.4318
+FDEv: 4.0322
+Rank: 601
+WSADE: 1.2836
+WSFDE: 2.3758

@@ -1,0 +1,11 @@
+# jonit_epoch50
+
+ADEb: 1.9513
+ADEp: 0.8071
+ADEv: 2.2308
+FDEb: 3.7852
+FDEp: 1.5879
+FDEv: 4.0691
+Rank: 1083
+WSADE: 1.3436
+WSFDE: 2.5675

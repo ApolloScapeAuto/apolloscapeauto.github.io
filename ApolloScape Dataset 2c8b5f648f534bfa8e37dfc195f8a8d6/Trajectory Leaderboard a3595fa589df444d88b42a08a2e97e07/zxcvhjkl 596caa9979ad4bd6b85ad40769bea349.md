@@ -1,0 +1,11 @@
+# zxcvhjkl
+
+ADEb: 2.0826
+ADEp: 0.8945
+ADEv: 2.3027
+FDEb: 3.7627
+FDEp: 1.6352
+FDEv: 3.9912
+Rank: 1268
+WSADE: 1.4375
+WSFDE: 2.5744

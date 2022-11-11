@@ -1,0 +1,11 @@
+# gatxing-onehot+6-0.2-e49
+
+ADEb: 1.8179
+ADEp: 0.7579
+ADEv: 2.2507
+FDEb: 3.3737
+FDEp: 1.4486
+FDEv: 4.0859
+Rank: 703
+WSADE: 1.2897
+WSFDE: 2.3996

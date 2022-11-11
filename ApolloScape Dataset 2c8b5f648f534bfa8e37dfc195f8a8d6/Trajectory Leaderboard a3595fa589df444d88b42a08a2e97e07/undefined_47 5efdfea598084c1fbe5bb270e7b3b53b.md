@@ -1,0 +1,11 @@
+# undefined_47
+
+ADEb: 1.7918
+ADEp: 0.7341
+ADEv: 2.1438
+FDEb: 3.4141
+FDEp: 1.4071
+FDEv: 3.8763
+Rank: 203
+WSADE: 1.2487
+WSFDE: 2.3425

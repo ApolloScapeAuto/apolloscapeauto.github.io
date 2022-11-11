@@ -1,0 +1,11 @@
+# wcznetv
+
+ADEb: 1.888
+ADEp: 0.7448
+ADEv: 3.0917
+FDEb: 3.4731
+FDEp: 1.4316
+FDEv: 5.5514
+Rank: 1307
+WSADE: 1.4657
+WSFDE: 2.7047

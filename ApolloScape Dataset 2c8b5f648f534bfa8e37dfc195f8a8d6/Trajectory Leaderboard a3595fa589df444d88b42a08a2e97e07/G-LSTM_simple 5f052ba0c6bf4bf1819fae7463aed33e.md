@@ -1,0 +1,11 @@
+# G-LSTM_simple
+
+ADEb: 1.84
+ADEp: 0.7175
+ADEv: 2.2291
+FDEb: 3.479
+FDEp: 1.3753
+FDEv: 4.0465
+Rank: 375
+WSADE: 1.2668
+WSFDE: 2.3724

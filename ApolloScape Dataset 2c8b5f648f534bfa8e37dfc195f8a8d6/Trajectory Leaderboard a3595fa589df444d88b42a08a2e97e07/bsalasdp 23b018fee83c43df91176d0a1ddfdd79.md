@@ -1,0 +1,11 @@
+# bsalasdp
+
+ADEb: 1.8193
+ADEp: 0.9883
+ADEv: 2.1664
+FDEb: 3.3466
+FDEp: 1.9062
+FDEv: 3.8561
+Rank: 1220
+WSADE: 1.4067
+WSFDE: 2.6131
