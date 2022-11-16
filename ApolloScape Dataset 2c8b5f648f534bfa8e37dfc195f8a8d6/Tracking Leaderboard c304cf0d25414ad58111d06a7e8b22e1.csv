@@ -1,2 +1,0 @@
-﻿Rank,Method,MOTAm,MOTA(Car),MOTA(Pedestrian),MOTA(Cyclist)
-baseline,IOU_tracker (based on cnnseg),18.973,56.919,0,0
